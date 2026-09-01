@@ -1,5 +1,18 @@
 {
-  "portaille": [],
+  "portaille": [
+    {
+      "id": "pmtj90u7i7hnt",
+      "x": 59.9,
+      "y": 69.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHT792PIX",
+          "category": "hotte"
+        }
+      ]
+    }
+  ],
   "rido": [],
   "recentSearches": []
 }
