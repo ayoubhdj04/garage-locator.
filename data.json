@@ -11,6 +11,25 @@
           "category": "hotte"
         }
       ]
+    },
+    {
+      "id": "pmtj92d01aajr",
+      "x": 18.4,
+      "y": 93.3,
+      "note": "",
+      "refs": []
+    },
+    {
+      "id": "pmtj92itqj57i",
+      "x": 18.4,
+      "y": 85.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MFGE862VIX",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
@@ -25,6 +44,13 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtj91z3vxs1w",
+      "x": 38.7,
+      "y": 58.7,
+      "note": "",
+      "refs": []
     }
   ],
   "recentSearches": []
