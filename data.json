@@ -74,7 +74,12 @@
       "x": 74.7,
       "y": 42.5,
       "note": "",
-      "refs": []
+      "refs": [
+        {
+          "code": "MFGE862VBG",
+          "category": "four"
+        }
+      ]
     }
   ],
   "recentSearches": []
