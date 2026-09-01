@@ -50,6 +50,25 @@
       "x": 38.7,
       "y": 58.7,
       "note": "",
+      "refs": [
+        {
+          "code": "MFE3658TBG",
+          "category": "four"
+        }
+      ]
+    },
+    {
+      "id": "pmtj92sy2u15s",
+      "x": 31.4,
+      "y": 59.6,
+      "note": "",
+      "refs": []
+    },
+    {
+      "id": "pmtj937aql6gt",
+      "x": 74.7,
+      "y": 42.5,
+      "note": "",
       "refs": []
     }
   ],
