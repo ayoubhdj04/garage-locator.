@@ -13,6 +13,19 @@
       ]
     }
   ],
-  "rido": [],
+  "rido": [
+    {
+      "id": "pmtj91i4rl8ay",
+      "x": 46.4,
+      "y": 58.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MFE3658TIX",
+          "category": "four"
+        }
+      ]
+    }
+  ],
   "recentSearches": []
 }
