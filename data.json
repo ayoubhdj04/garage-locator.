@@ -28,6 +28,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtjvle37jqzy",
+      "x": 83.8,
+      "y": 27.6,
+      "note": "",
+      "refs": [
+        {
+          "code": "RDG6DCK3B-ALG/1",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "recentSearches": []
