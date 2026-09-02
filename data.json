@@ -76,6 +76,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtjvqoxsp06a",
+      "x": 43.2,
+      "y": 10.8,
+      "note": "",
+      "refs": [
+        {
+          "code": "BFL524MB0",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "recentSearches": []
