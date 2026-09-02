@@ -1,5 +1,18 @@
 {
   "portaille": [],
-  "rido": [],
+  "rido": [
+    {
+      "id": "pmtjvi5gr10fc",
+      "x": 73.3,
+      "y": 11,
+      "note": "",
+      "refs": [
+        {
+          "code": "SOMG1300X",
+          "category": "micro"
+        }
+      ]
+    }
+  ],
   "recentSearches": []
 }
