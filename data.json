@@ -64,6 +64,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtjvpurf337s",
+      "x": 43.4,
+      "y": 25.8,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTV371THBG",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "recentSearches": []
