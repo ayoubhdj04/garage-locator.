@@ -116,6 +116,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtjvzd4wm40s",
+      "x": 13.9,
+      "y": 16.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM3701TIX",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "recentSearches": []
