@@ -78,6 +78,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtlq5okgli81",
+      "x": 24.3,
+      "y": 60.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "HBG636LB1",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
