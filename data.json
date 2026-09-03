@@ -1,5 +1,18 @@
 {
-  "portaille": [],
+  "portaille": [
+    {
+      "id": "pmtlq05i275ex",
+      "x": 24.7,
+      "y": 97.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MFE666MBG",
+          "category": "four"
+        }
+      ]
+    }
+  ],
   "rido": [
     {
       "id": "pmtjvi5gr10fc",
