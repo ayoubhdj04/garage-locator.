@@ -55,6 +55,25 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtlq3gt49swq",
+      "x": 24.3,
+      "y": 76.8,
+      "note": "",
+      "refs": []
+    },
+    {
+      "id": "pmtlq48xr1f81",
+      "x": 23.9,
+      "y": 64.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM263ZHBK",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
