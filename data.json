@@ -248,6 +248,10 @@
         {
           "code": "FSCGES90ALG/1",
           "category": "four"
+        },
+        {
+          "code": "MME6250MBG",
+          "category": "micro"
         }
       ]
     }
