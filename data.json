@@ -176,7 +176,12 @@
       "x": 25.1,
       "y": 32.9,
       "note": "",
-      "refs": []
+      "refs": [
+        {
+          "code": "MTVE331TBG",
+          "category": "plaque"
+        }
+      ]
     },
     {
       "id": "pmtnlqv3k37qc",
