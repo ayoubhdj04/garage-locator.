@@ -318,6 +318,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnm1j7uab5n",
+      "x": 45.8,
+      "y": 16.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MCG462SIX",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
