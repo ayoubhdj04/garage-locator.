@@ -110,6 +110,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtnllxxx89vf",
+      "x": 24.5,
+      "y": 48.6,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHD1162ABK",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
