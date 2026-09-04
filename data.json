@@ -394,6 +394,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtnm5vkl7o3z",
+      "x": 45.6,
+      "y": 35.6,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6252MIX",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
