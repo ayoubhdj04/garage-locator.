@@ -182,6 +182,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnlqv3k37qc",
+      "x": 24.7,
+      "y": 29.5,
+      "note": "",
+      "refs": [
+        {
+          "code": "EX-H604FI",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
