@@ -146,6 +146,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnlooifd04w",
+      "x": 9.9,
+      "y": 42.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6250MIX",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
