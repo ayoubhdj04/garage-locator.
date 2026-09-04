@@ -198,6 +198,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnlt334v807",
+      "x": 24.5,
+      "y": 25.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHI1166ABG",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
