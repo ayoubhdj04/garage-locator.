@@ -278,6 +278,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtnly10a4k85",
+      "x": 12.3,
+      "y": 8.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHC765PIX",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
