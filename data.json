@@ -238,6 +238,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnlvyb9wncj",
+      "x": 24.9,
+      "y": 18.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "FSCGES90ALG/1",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
