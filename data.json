@@ -254,6 +254,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnlx7pf8gqk",
+      "x": 14.7,
+      "y": 13.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "FSCGEB90ALG/1",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
