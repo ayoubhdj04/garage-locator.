@@ -130,6 +130,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnlnv5tapqt",
+      "x": 25.1,
+      "y": 43.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6253MIX",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
