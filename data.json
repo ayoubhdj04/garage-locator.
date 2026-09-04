@@ -140,6 +140,10 @@
         {
           "code": "MME6253MIX",
           "category": "micro"
+        },
+        {
+          "code": "MME6250MBG",
+          "category": "micro"
         }
       ]
     }
