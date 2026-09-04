@@ -334,6 +334,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtnm2cp29tl8",
+      "x": 45.6,
+      "y": 20.3,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHI3612TIX",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
