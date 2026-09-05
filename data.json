@@ -774,6 +774,18 @@
           "category": "hotte"
         }
       ]
+    },
+    {
+      "id": "pmtnmyi0zgqzf",
+      "x": 86.1,
+      "y": 19.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6254MBG",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
