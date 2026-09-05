@@ -420,6 +420,10 @@
         {
           "code": "MFE6250MBG",
           "category": "micro"
+        },
+        {
+          "code": "MME6252MIX",
+          "category": "micro"
         }
       ]
     }
