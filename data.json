@@ -638,6 +638,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnmq9kcxq4o",
+      "x": 67.6,
+      "y": 67.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHI1165ABG",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
