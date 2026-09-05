@@ -462,6 +462,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnmdbsrnrpu",
+      "x": 46.8,
+      "y": 89.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHG753PIX",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
