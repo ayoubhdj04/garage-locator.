@@ -786,6 +786,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnmywsflu2i",
+      "x": 85.5,
+      "y": 15.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHG782PBK",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
