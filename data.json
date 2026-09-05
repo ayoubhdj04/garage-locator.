@@ -452,16 +452,7 @@
       "x": 45.6,
       "y": 43.5,
       "note": "",
-      "refs": [
-        {
-          "code": "PFI46GH",
-          "category": "plaque"
-        },
-        {
-          "code": "MME6251MIX",
-          "category": "plaque"
-        }
-      ]
+      "refs": []
     }
   ],
   "rido": [
