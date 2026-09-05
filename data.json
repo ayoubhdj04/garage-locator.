@@ -784,6 +784,10 @@
         {
           "code": "MME6254MBG",
           "category": "micro"
+        },
+        {
+          "code": "MHT764PIX",
+          "category": "four"
         }
       ]
     },
