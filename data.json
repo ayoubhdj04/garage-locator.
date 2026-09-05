@@ -746,6 +746,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnmwgflhhk2",
+      "x": 66.2,
+      "y": 23.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHT793PIX",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
