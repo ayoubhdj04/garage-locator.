@@ -860,7 +860,12 @@
       "x": 86.7,
       "y": 54.9,
       "note": "",
-      "refs": []
+      "refs": [
+        {
+          "code": "NSL57CNCALG/1",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
