@@ -658,6 +658,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnmssohnxrb",
+      "x": 86.9,
+      "y": 57.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTVE391TBG",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
