@@ -590,6 +590,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtnmn1xrpli6",
+      "x": 53.6,
+      "y": 66.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHT794PBG",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
