@@ -426,6 +426,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtnma1ywe2dk",
+      "x": 46,
+      "y": 40.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6340MBG",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
