@@ -627,6 +627,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpsngj6xal1",
+      "x": 66.6,
+      "y": 39.6,
+      "note": "",
+      "refs": [
+        {
+          "code": "PV175B3",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
