@@ -277,6 +277,10 @@
         {
           "code": "MME6340MBG",
           "category": "micro"
+        },
+        {
+          "code": "EX-H604FI",
+          "category": "plaque"
         }
       ]
     }
