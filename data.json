@@ -603,6 +603,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpsiay8kl75",
+      "x": 66.4,
+      "y": 42.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM262ZHIX",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
