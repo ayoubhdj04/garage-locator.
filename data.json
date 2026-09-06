@@ -951,6 +951,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptcnzciyuo",
+      "x": 81.6,
+      "y": 66.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTVI362TBG",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
