@@ -69,38 +69,6 @@
       ]
     },
     {
-      "id": "pmtnm5vkl7o3z",
-      "x": 45.6,
-      "y": 35.6,
-      "note": "",
-      "refs": [
-        {
-          "code": "MME6252MIX",
-          "category": "micro"
-        },
-        {
-          "code": "VGD553FB0",
-          "category": "four"
-        },
-        {
-          "code": "MHD1163ABG",
-          "category": "hotte"
-        },
-        {
-          "code": "MHC792PIX",
-          "category": "hotte"
-        },
-        {
-          "code": "MFE6250MBG",
-          "category": "micro"
-        },
-        {
-          "code": "MME6252MIX",
-          "category": "micro"
-        }
-      ]
-    },
-    {
       "id": "pmtnmchd7zl3m",
       "x": 45.4,
       "y": 46.3,
