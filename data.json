@@ -197,30 +197,6 @@
       ]
     },
     {
-      "id": "pmtnmyi0zgqzf",
-      "x": 86.1,
-      "y": 19.1,
-      "note": "",
-      "refs": [
-        {
-          "code": "MME6254MBG",
-          "category": "micro"
-        },
-        {
-          "code": "MHT764PIX",
-          "category": "four"
-        },
-        {
-          "code": "MTM3601TIX",
-          "category": "plaque"
-        },
-        {
-          "code": "NSF4NLALG/1",
-          "category": "four"
-        }
-      ]
-    },
-    {
       "id": "pmtnmywsflu2i",
       "x": 85.5,
       "y": 15.2,
