@@ -65,7 +65,12 @@
       "x": 24.3,
       "y": 76.8,
       "note": "",
-      "refs": []
+      "refs": [
+        {
+          "code": "MFGE865VIX",
+          "category": "four"
+        }
+      ]
     },
     {
       "id": "pmtlq48xr1f81",
