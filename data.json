@@ -649,6 +649,10 @@
         {
           "code": "FMI120B3",
           "category": "hotte"
+        },
+        {
+          "code": "BFL524MS0",
+          "category": "micro"
         }
       ]
     }
