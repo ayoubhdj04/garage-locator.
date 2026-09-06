@@ -1011,6 +1011,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpthvnatw84",
+      "x": 65.1,
+      "y": 67.1,
+      "note": "",
+      "refs": [
+        {
+          "code": "NSL46CNCMALG/1",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
