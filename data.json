@@ -1059,6 +1059,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptlxkgr899",
+      "x": 51.1,
+      "y": 67.3,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHD1192ABK",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
