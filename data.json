@@ -231,6 +231,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtprvd2b52yi",
+      "x": 25.9,
+      "y": 45.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6253MIX",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
