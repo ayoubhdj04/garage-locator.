@@ -431,6 +431,18 @@
           "category": "micro"
         }
       ]
+    },
+    {
+      "id": "pmtps8i90puf7",
+      "x": 45.8,
+      "y": 16.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MFG461SBG",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
