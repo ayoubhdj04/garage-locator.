@@ -645,6 +645,10 @@
         {
           "code": "PV695LCNR",
           "category": "plaque"
+        },
+        {
+          "code": "FMI120B3",
+          "category": "hotte"
         }
       ]
     }
