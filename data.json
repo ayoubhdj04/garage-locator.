@@ -69,34 +69,6 @@
       ]
     },
     {
-      "id": "pmtnlu6bb27hl",
-      "x": 25.1,
-      "y": 21.7,
-      "note": "",
-      "refs": [
-        {
-          "code": "PFI57GH",
-          "category": "plaque"
-        },
-        {
-          "code": "MME6340MBG",
-          "category": "micro"
-        },
-        {
-          "code": "HBG536EB4",
-          "category": "micro"
-        },
-        {
-          "code": "MTV271ZHBG",
-          "category": "plaque"
-        },
-        {
-          "code": "MHC792PIX",
-          "category": "plaque"
-        }
-      ]
-    },
-    {
       "id": "pmtnm0e1ki2b8",
       "x": 35.1,
       "y": 13.8,
