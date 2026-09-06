@@ -939,6 +939,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptcd4wf8kv",
+      "x": 85.9,
+      "y": 65.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM263ZHBK",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
