@@ -927,6 +927,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptc2scolzb",
+      "x": 85.5,
+      "y": 63.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "PFI57GH",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
