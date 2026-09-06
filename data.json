@@ -995,6 +995,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptndj9ztl3",
+      "x": 46.2,
+      "y": 75.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHD1162ABK",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
