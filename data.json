@@ -531,6 +531,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpsedd5c9ez",
+      "x": 46.2,
+      "y": 45.7,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM272ZHBK",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
