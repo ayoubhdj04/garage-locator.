@@ -1031,6 +1031,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptjc0nov2d",
+      "x": 60.9,
+      "y": 66.9,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTVE361TBG",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
