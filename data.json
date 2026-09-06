@@ -187,26 +187,6 @@
           "category": "plaque"
         }
       ]
-    },
-    {
-      "id": "pmtnn6k7immpk",
-      "x": 86.3,
-      "y": 57.9,
-      "note": "",
-      "refs": [
-        {
-          "code": "MHT794PIX",
-          "category": "hotte"
-        },
-        {
-          "code": "MHI1196ABG",
-          "category": "hotte"
-        },
-        {
-          "code": "PXV875DV1E",
-          "category": "plaque"
-        }
-      ]
     }
   ],
   "rido": [
