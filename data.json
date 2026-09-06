@@ -1043,6 +1043,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtptjznzix3e",
+      "x": 55.6,
+      "y": 66.5,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHG753PBK",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
