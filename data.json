@@ -803,6 +803,18 @@
           "category": "hotte"
         }
       ]
+    },
+    {
+      "id": "pmtpszglm78um",
+      "x": 85.9,
+      "y": 24.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6254MBG",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
