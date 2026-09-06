@@ -395,6 +395,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtps6vr3q162",
+      "x": 38.3,
+      "y": 12.2,
+      "note": "",
+      "refs": [
+        {
+          "code": "MHC761PIX",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "rido": [
