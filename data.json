@@ -247,6 +247,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtprvwktqlqi",
+      "x": 25.9,
+      "y": 42.3,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6250MBG",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
