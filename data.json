@@ -875,6 +875,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpta7q2cphb",
+      "x": 86.1,
+      "y": 51.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM371THIX",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
