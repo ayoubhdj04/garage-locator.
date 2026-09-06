@@ -419,6 +419,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtps81x7m0f0",
+      "x": 39.9,
+      "y": 13,
+      "note": "",
+      "refs": [
+        {
+          "code": "MME6254MMG",
+          "category": "micro"
+        }
+      ]
     }
   ],
   "rido": [
