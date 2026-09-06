@@ -293,7 +293,12 @@
       "x": 25.7,
       "y": 35.6,
       "note": "",
-      "refs": []
+      "refs": [
+        {
+          "code": "HBG536EB4",
+          "category": "four"
+        }
+      ]
     }
   ],
   "rido": [
