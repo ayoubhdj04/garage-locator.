@@ -543,6 +543,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtpseqss4lq5",
+      "x": 46,
+      "y": 48.4,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM272ZHBK",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "rido": [
