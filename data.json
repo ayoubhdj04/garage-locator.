@@ -167,10 +167,6 @@
       "note": "",
       "refs": [
         {
-          "code": "MME6250MBG",
-          "category": "micro"
-        },
-        {
           "code": "MME6252MIX",
           "category": "micro"
         }
