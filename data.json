@@ -109,6 +109,10 @@
         {
           "code": "MME6250MIX",
           "category": "four"
+        },
+        {
+          "code": "MME6250MBG",
+          "category": "four"
         }
       ]
     },
