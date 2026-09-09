@@ -1193,6 +1193,18 @@
           "category": "plaque"
         }
       ]
+    },
+    {
+      "id": "pmtu95v7l3anb",
+      "x": 86.9,
+      "y": 28,
+      "note": "",
+      "refs": [
+        {
+          "code": "DFS097K51",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "recentSearches": []
