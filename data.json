@@ -1217,6 +1217,18 @@
           "category": "four"
         }
       ]
+    },
+    {
+      "id": "pmtu96xi7x1lr",
+      "x": 80.2,
+      "y": 28,
+      "note": "",
+      "refs": [
+        {
+          "code": "EX-H9C30M-B",
+          "category": "hotte"
+        }
+      ]
     }
   ],
   "recentSearches": []
