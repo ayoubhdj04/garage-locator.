@@ -1229,6 +1229,18 @@
           "category": "hotte"
         }
       ]
+    },
+    {
+      "id": "pmtu97khi0zgb",
+      "x": 76.7,
+      "y": 28.3,
+      "note": "",
+      "refs": [
+        {
+          "code": "MTM3701TIX",
+          "category": "plaque"
+        }
+      ]
     }
   ],
   "recentSearches": []
